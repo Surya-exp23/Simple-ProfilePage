@@ -31,7 +31,7 @@ The typing effect is created using **CSS animations**, including:
 ## ▶️ How to Use  
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git  
+    https://github.com/your-username/your-repo-name.git  
 2. Open index.html in any modern web browser.  
 3. Edit the text, styles, or animations to customize the profile.  
 
